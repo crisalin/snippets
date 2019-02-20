@@ -1,4 +1,4 @@
-snippets
+Webdev
 ========
 
-Web development tools.
+Web development repository.
